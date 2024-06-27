@@ -4,7 +4,7 @@ Utilises Python and Folium to analyse and visualise the Delhi metro transportati
 <center>
 <img src="https://github.com/anjulbhatia/DelhiMetro_NetworkAnalysis/assets/148487464/fc6bc907-54d1-4726-b5da-fbedd5443268" 
   alt="Delhi Metro Map created by Folium"
-  width=500 height=360/><br>
+  width=600 height=400/><br>
   <caption style="text-align:center;">Geographical coverage of Delhi Metro</caption>
 </center>
 
